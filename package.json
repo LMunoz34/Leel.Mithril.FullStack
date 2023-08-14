@@ -1,0 +1,28 @@
+{
+  "name": "leel.mithril.fullstack",
+  "version": "1.0.0",
+  "description": "Demo project to test Mithril, Express, and Firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LMunoz34/Leel.Mithril.FullStack.git"
+  },
+  "keywords": [
+    "mithril",
+    "firebase",
+    "express"
+  ],
+  "author": "Leonel Munoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LMunoz34/Leel.Mithril.FullStack/issues"
+  },
+  "homepage": "https://github.com/LMunoz34/Leel.Mithril.FullStack#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase": "^10.1.0"
+  }
+}
